@@ -12,7 +12,7 @@ function ParentComponent() {
 export default ParentComponent
 function ChildComponent({ onData }) {
   const sendData = () => {
-    onData('some data');
+    onData('some datas');
   };
 
   return <button onClick={sendData}>Send Data</button>;
