@@ -8,7 +8,6 @@ const Topics = () => {
   ]
   return (<>
     <div>Topics</div>
-
    {  collection.map((data ,index) =>{ return (<Card key={index}><Card.Title>{data.name}</Card.Title>
         <Card.Text>
           Click below
