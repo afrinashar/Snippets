@@ -6,8 +6,7 @@ import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
-  
-
+ 
   return (<>
   <Link to={-1} className='btn btn-dark float-right' >previous</Link>
       <Link to="/" className='btn btn-dark float-right'  >Go to DASHBOARD</Link>
