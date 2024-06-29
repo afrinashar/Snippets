@@ -1,5 +1,4 @@
-import React from 'react'
-import { Dropdown } from './Dropdown'
+ import { Dropdown } from './Dropdown'
 import { SearchBar } from './SearchBar'
 import { CheckBox } from './CheckBox'
 import { Upload } from './Upload'
